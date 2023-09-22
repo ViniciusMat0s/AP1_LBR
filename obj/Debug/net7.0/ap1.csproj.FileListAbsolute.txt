@@ -1,0 +1,6 @@
+C:\Users\kod4s\Documents\Ulbra\Ulbra 2023-2\Laboratório de Programação\Ap1\ap1\bin\Debug\net7.0\ap1.dll
+C:\Users\kod4s\Documents\Ulbra\Ulbra 2023-2\Laboratório de Programação\Ap1\ap1\obj\Debug\net7.0\ap1.csproj.AssemblyReference.cache
+C:\Users\kod4s\Documents\Ulbra\Ulbra 2023-2\Laboratório de Programação\Ap1\ap1\obj\Debug\net7.0\ap1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kod4s\Documents\Ulbra\Ulbra 2023-2\Laboratório de Programação\Ap1\ap1\obj\Debug\net7.0\ap1.AssemblyInfoInputs.cache
+C:\Users\kod4s\Documents\Ulbra\Ulbra 2023-2\Laboratório de Programação\Ap1\ap1\obj\Debug\net7.0\ap1.AssemblyInfo.cs
+C:\Users\kod4s\Documents\Ulbra\Ulbra 2023-2\Laboratório de Programação\Ap1\ap1\obj\Debug\net7.0\ap1.csproj.CoreCompileInputs.cache
