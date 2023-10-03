@@ -4,3 +4,12 @@ C:\Users\kod4s\Documents\Ulbra\Ulbra 2023-2\Laboratório de Programação\Ap1\ap
 C:\Users\kod4s\Documents\Ulbra\Ulbra 2023-2\Laboratório de Programação\Ap1\ap1\obj\Debug\net7.0\ap1.AssemblyInfoInputs.cache
 C:\Users\kod4s\Documents\Ulbra\Ulbra 2023-2\Laboratório de Programação\Ap1\ap1\obj\Debug\net7.0\ap1.AssemblyInfo.cs
 C:\Users\kod4s\Documents\Ulbra\Ulbra 2023-2\Laboratório de Programação\Ap1\ap1\obj\Debug\net7.0\ap1.csproj.CoreCompileInputs.cache
+C:\Users\kod4s\Documents\Ulbra\Ulbra 2023-2\Laboratório de Programação\Ap1\ap1\bin\Debug\net7.0\ap1.exe
+C:\Users\kod4s\Documents\Ulbra\Ulbra 2023-2\Laboratório de Programação\Ap1\ap1\bin\Debug\net7.0\ap1.deps.json
+C:\Users\kod4s\Documents\Ulbra\Ulbra 2023-2\Laboratório de Programação\Ap1\ap1\bin\Debug\net7.0\ap1.runtimeconfig.json
+C:\Users\kod4s\Documents\Ulbra\Ulbra 2023-2\Laboratório de Programação\Ap1\ap1\bin\Debug\net7.0\ap1.pdb
+C:\Users\kod4s\Documents\Ulbra\Ulbra 2023-2\Laboratório de Programação\Ap1\ap1\obj\Debug\net7.0\ap1.dll
+C:\Users\kod4s\Documents\Ulbra\Ulbra 2023-2\Laboratório de Programação\Ap1\ap1\obj\Debug\net7.0\refint\ap1.dll
+C:\Users\kod4s\Documents\Ulbra\Ulbra 2023-2\Laboratório de Programação\Ap1\ap1\obj\Debug\net7.0\ap1.pdb
+C:\Users\kod4s\Documents\Ulbra\Ulbra 2023-2\Laboratório de Programação\Ap1\ap1\obj\Debug\net7.0\ap1.genruntimeconfig.cache
+C:\Users\kod4s\Documents\Ulbra\Ulbra 2023-2\Laboratório de Programação\Ap1\ap1\obj\Debug\net7.0\ref\ap1.dll
